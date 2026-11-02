@@ -53,7 +53,7 @@ pip install numpy pandas yfinance arch matplotlib seaborn
 ### 2. Execution
 Clone the repository, navigate to the folder, and launch Jupyter:
 ```bash
-git clone https://github.com/yourusername/infosys-tarch-simulation.git
+git clone https://github.com/arpittripathi4298/infosys-tarch-simulation.git
 cd infosys-tarch-simulation
 jupyter notebook
 ```
